@@ -472,6 +472,8 @@ pre {
   margin-right: auto;
   margin-left: auto; }
 
+
+
 .row {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -9703,3 +9705,16 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+   
+  
+    .btn-resume {
+      background: #4CAF50; /* Green */
+      border: none;
+      transition: 0.3s;
+    }
+    .btn-resume:hover {
+      background: #45a049;
+    }
+
+  
+  <a href="White Simple Web Developer Resume.pdf" target="_blank" class="btn btn-resume py-2 px-3">View Resume</a>
